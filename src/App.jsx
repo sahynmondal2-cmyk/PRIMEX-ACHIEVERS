@@ -15,7 +15,7 @@ import ScrollToTop from './components/utils/ScrollToTop';
 
 function App() {
   return (
-    <Router basename="/PRIMEX-ACHIEVERS/">
+    <Router>
       <ScrollToTop />
       <div className="flex flex-col min-h-screen">
         <Navbar />
