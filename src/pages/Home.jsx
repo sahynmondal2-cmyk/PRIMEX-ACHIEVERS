@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { ArrowRight, CheckCircle2, Play, Trophy, Users, Star, BarChart3, Clock, BookOpen } from 'lucide-react';
+import { ArrowRight, CheckCircle2, Play, Trophy, Users, User, Star, BarChart3, Clock, BookOpen } from 'lucide-react';
 import { MOCK_COURSES, MOCK_TESTS } from '../utils/mockData';
 
 export default function Home() {
